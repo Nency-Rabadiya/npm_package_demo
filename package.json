@@ -1,0 +1,16 @@
+{
+  "name": "test-version",
+  "version": "1.0.0",
+  "description": "package.json file testing",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nency Rabadiya",
+  "license": "ISC",
+  "dependencies": {
+    "case-to-case": "1.2.0",
+    "inquirer": "9.2.14"
+  }
+}
